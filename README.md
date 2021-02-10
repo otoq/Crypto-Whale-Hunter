@@ -24,11 +24,8 @@ pip install python-binance
 - Renklendirmelerin problemsiz görülmesi için Powershell ekranını kullanın
 ## Video Örnekler
 
-- Yeni emir verme
+- Çalışan örnek.
 
-[![](http://img.youtube.com/vi/ivHnRD28qas/0.jpg)](http://www.youtube.com/watch?v=ivHnRD28qas "")
+[![](http://img.youtube.com/vi/f3QOvMn1c8w/0.jpg)](http://www.youtube.com/watch?v=f3QOvMn1c8w "")
 
-- Var olan emirlerin kontorlü ve otomatik işlemlerin yerine getirilmesi. (Uygulama devamlı açık olmalı)
-
-[![](http://img.youtube.com/vi/JLdBx-RElAQ/0.jpg)](http://www.youtube.com/watch?v=JLdBx-RElAQ "")
 
