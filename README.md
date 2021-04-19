@@ -1,5 +1,4 @@
-
-<img src="https://pbs.twimg.com/profile_images/1022945109183275008/_uHiSUwl_400x400.jpg" width="100" >
+![Binance En Son Emirlerin Analizi](https://drive.google.com/uc?export=view&id=1pdcUUgMwbZE4zWgKJIwzKTFZXcz6cIne)
 
 # Binance Son Gerçekleşen Emir Analizi
 
@@ -13,8 +12,9 @@
 
 
 ### Özellikler
-- Binance borsasında eblirlenen coinlerin son 500 gerçekleşmiş emri analiz eder.
+- Binance borsasında belirlenen coinlerin gerçekleşmiş son 500 emirleri alınır.
 - 24 saatlik hacime nazaran bu 500 emirin gerçekleştiği zaman aralığında hacim artışı olup olmadığını renklendirerek gösterir.
+- Son 500 emrin gerçekleşme süresi ayrı bir sütunda gösterilir.
 
 ## Gereksinimler
 pip install python-binance
