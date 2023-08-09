@@ -1,4 +1,4 @@
-# Name of my application: Crypto Whale Hunter
+# Crypto Whale Hunter
 
 ![Analysis of Latest Orders on Binance](https://drive.google.com/uc?export=view&id=1pdcUUgMwbZE4zWgKJIwzKTFZXcz6cIne)
 
