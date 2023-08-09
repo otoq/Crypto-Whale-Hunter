@@ -3,6 +3,13 @@
 ![Analysis of Latest Orders on Binance](https://drive.google.com/uc?export=view&id=1pdcUUgMwbZE4zWgKJIwzKTFZXcz6cIne)
 
 # Analysis of Recent Executed Orders on Binance
+In the realm of cryptocurrency markets, a phenomenon known as 'whales' emerges as significant players. These whales, large holders of cryptocurrencies, possess the capability to influence market dynamics. Their modus operandi involves strategically accumulating assets prior to initiating a rapid price surge, a maneuver often referred to as 'pumping'. This accumulation phase is intentionally obscured from the general market participants to safeguard their strategy.
+
+To obfuscate their accumulation efforts, whales employ a subtle strategy of augmenting trading volumes, thereby deflecting attention from their activities. They endeavor to elude detection by exploiting the temporal intervals inherent in the data visualizations that traders rely upon for insights. Even within the context of the most granular temporal scale, such as the one-minute interval, whales orchestrate their maneuvers with meticulous care.
+
+In the context of a one-minute timeframe, for instance, whales allocate their resources to procure a volume of assets proportional to the margin between the observed average trading volume and the volume that is conspicuously absent. This calibrated action enables them to conduct transactions without arousing suspicion. The fundamental aim is to mask their intentions from prying eyes, avoiding undue market anticipation.
+
+The innovative software application under consideration offers an efficacious solution to this enigma. It empowers users to scrutinize and comprehend the nuanced patterns of trading activity that transpire within mere seconds. By meticulously analyzing transactional volumes that exceed the norm, and this across the entirety of the market, the software augments traders' capability to detect anomalous trading actions that might be indicative of these surreptitious accumulation tactics.
 
 ## Pull Requests will be considered
 
