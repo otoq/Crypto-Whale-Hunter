@@ -1,6 +1,6 @@
 # Crypto Whale Hunter
 
-![Analysis of Latest Orders on Binance](https://drive.google.com/uc?export=view&id=1pdcUUgMwbZE4zWgKJIwzKTFZXcz6cIne)
+![Analysis of Latest Orders on Binance](https://drive.google.com/uc?export=view&id=1e5JdEPiONP77W6R2vu_700oKNhI4Ag3O)
 
 # Analysis of Recent Executed Orders on Binance
 In the realm of cryptocurrency markets, a phenomenon known as 'whales' emerges as significant players. These whales, large holders of cryptocurrencies, possess the capability to influence market dynamics. Their modus operandi involves strategically accumulating assets prior to initiating a rapid price surge, a maneuver often referred to as 'pumping'. This accumulation phase is intentionally obscured from the general market participants to safeguard their strategy.
